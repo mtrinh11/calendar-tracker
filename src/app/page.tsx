@@ -1,4 +1,4 @@
-import Calendar from "./app";
+import Calendar from "./calendar";
 
 export default function Home() {
 
